@@ -37,7 +37,7 @@ span.emoji {
   vertical-align: middle;
 }
 code {
-  font-family: 'Monaspace Xenon Var';
+  font-family: 'Monaspace Xenon Var' !important;
 }
 .progress {
   background-color: #42b983;
