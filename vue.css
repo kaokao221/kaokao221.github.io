@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
 @import url("/Manrope-Regular.ttf");
 @import url("/HarmonyOS_Sans_SC_Regular.ttf");
+@import url("/MonaspaceXenonVarVF.ttf");
 * {
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
@@ -34,6 +35,9 @@ span.emoji {
   font-family: "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1.2em;
   vertical-align: middle;
+}
+code {
+  font-family: 'Monaspace Xenon Var';
 }
 .progress {
   background-color: #42b983;
