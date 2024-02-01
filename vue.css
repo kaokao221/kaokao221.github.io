@@ -702,7 +702,7 @@ body {
 .markdown-section code,
 .markdown-section pre,
 .markdown-section output::after {
-  font-family: 'Roboto Mono', Monaco, courier, monospace;
+  font-family: 'Roboto Mono', Monaco, courier, 'Manrope', 'HarmonyOS Sans SC', monospace;
 }
 .markdown-section code,
 .markdown-section pre {
